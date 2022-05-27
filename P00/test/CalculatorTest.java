@@ -47,7 +47,7 @@ public class CalculatorTest {
 	public void tearDown() throws Exception {
 	}
 
-	
+
 	//	fail("Not yet implemented");
 	}
 
